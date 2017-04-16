@@ -19,7 +19,9 @@ Please refer to the sample in `data/nips`.
 
 ### 2.2. How to Use
 *LDA: Please refer to `LDA.java` in the package `cn/edu/bjut/ui`.
+
 *AT: Please refer to `AT.java` in the package  `cn/edu/bjut/ui`. 
+
 *coAT: Please refer to `coAT.java` in the package `cn/edu/bjut/ui`
 
 ### 2.3. Additional Information
