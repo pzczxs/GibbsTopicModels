@@ -2,6 +2,9 @@
 Gibbs sampling algorithms for several topic models, such as LDA, AT, and coAT. 
 
 ### 1.1. Description
+Topic model is family of generative probabilistic models for discovering the main themes from a collection of documents. Examples of topic models include Latent Dirichlet Allocation (LDA) [1][2][3], Author-Topic (AT) model [4][5][6], and co-Author-Topic (coAT) model [7], and many others. 
+
+The inference for topic models usually cannot be done exactly. A variety of approximate inference algorithms have appeared in recent years, such as mean-field variational methods, expectation propagation, and Monte Carlo Markov chain sampling (MCMC). In this toolbox, Gibbs sampling, a special case of MCMC, is utilized, since it provides a simple method for obtaining parameter estimates under Dirichlet priors and allows combination of estimates from several local maxima of the posterior distribution. 
 
 ### 1.2. News, Comments, and Bug Reports.
 We highly appreciate any suggestion, comment, and bug report.
