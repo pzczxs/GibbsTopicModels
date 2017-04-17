@@ -33,18 +33,18 @@ Xin An, Shuo Xu, Yali Wen, and Mingxing Hu, 2014. [A Shared Interest Discovery M
 For any question, please contact XU, Shuo xushuo@bjut.edu.cn OR pzczxs@gmail.com.
 
 ## 3. References
-[1] David M. Blei, 2012. Introduction to Probabilistic Topic Models. **Communications of the ACM**, Vol. 55, No. 4, pp. 77-84.
+[1] David M. Blei, 2012. [Introduction to Probabilistic Topic Models](http://dx.doi.org/10.1145/2133806.2133826). *Communications of the ACM*, Vol. 55, No. 4, pp. 77-84.
 
-[2] David M. Blei, Andrew Y. Ng, and Michael I. Jordan, 2003. Latent Dirichlet Allocation. Journal of Machine Learning Research, Vol. 3, No. Jan, pp. 993-1022.
+[2] David M. Blei, Andrew Y. Ng, and Michael I. Jordan, 2003. [Latent Dirichlet Allocation](http://jmlr.csail.mit.edu/papers/v3/blei03a.html). *Journal of Machine Learning Research*, Vol. 3, No. Jan, pp. 993-1022.
 
-[3] Thomas L. Griffiths and Mark Steyvers, 2004. Finding Scientific Topics. Proceedings of the National Academy of Sciences of the United States of America, Vol. 101, No. Suppl, pp. 5228-5235.
+[3] Thomas L. Griffiths and Mark Steyvers, 2004. [Finding Scientific Topics](http://www.pnas.org/content/101/suppl_1/5228.abstract). *Proceedings of the National Academy of Sciences of the United States of America*, Vol. 101, No. Suppl, pp. 5228-5235.
 
-[4] Gregor Heinrich, 2009. Parameter Estimation for Text Analysis. Technical Report Version 2.9. vsonix GmbH and University of Leipzig. 
+[4] Gregor Heinrich, 2009. [Parameter Estimation for Text Analysis](http://www.arbylon.net/publications/text-est2.pdf). *Technical Report Version 2.9*. vsonix GmbH and University of Leipzig. 
 
-[5] Michal Rosen-Zvi, Thomas Griffiths, Mark Steyvers, and Padhraic Smyth, 2004. The Author-Topic Model for Authors and Documents. Proceedings of the 20th International Conference on Uncertainty in Artificial Intelligence. pp. 487-494.
+[5] Michal Rosen-Zvi, Thomas Griffiths, Mark Steyvers, and Padhraic Smyth, 2004. [The Author-Topic Model for Authors and Documents](https://mimno.infosci.cornell.edu/info6150/readings/398.pdf). *Proceedings of the 20th International Conference on Uncertainty in Artificial Intelligence*, pp. 487-494.
 
-[6] Mark Steyvers, Padhraic Smyth, and Thomas Griffiths, 2004. Probabilistic Author-Topic Models for Information Discovery. Proceedings of the 10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. pp. 306-315. 
+[6] Mark Steyvers, Padhraic Smyth, and Thomas Griffiths, 2004. [Probabilistic Author-Topic Models for Information Discovery](http://psiexp.ss.uci.edu/research/papers/author_topics_kdd.pdf). *Proceedings of the 10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, pp. 306-315. 
 
-[7] Michal Rosen-Zvi, Chaitanya Chemudugunta, Thomas Griffiths, and Padhraic Smyth, and Mark Steyvers, 2010. Learning Author-Topic Models from Text Corpora. ACM Transactions on Information Systems, Vol. 28, No. 1, pp. 1-38. 
+[7] Michal Rosen-Zvi, Chaitanya Chemudugunta, Thomas Griffiths, and Padhraic Smyth, and Mark Steyvers, 2010. [Learning Author-Topic Models from Text Corpora](https://cocosci.berkeley.edu/tom/papers/AT_tois.pdf). *ACM Transactions on Information Systems*, Vol. 28, No. 1, pp. 1-38. 
 
-[8] Xin An, Shuo Xu, Yali Wen, and Mingxing Hu, 2014. [A Shared Interest Discovery Model for Coauthor Relationship in SNS](http://dx.doi.org/10.1155/2014/820715). International Journal of Distributed Sensor Networks, Vol. 2014, No. 820715, pp. 1-9. 
+[8] Xin An, Shuo Xu, Yali Wen, and Mingxing Hu, 2014. [A Shared Interest Discovery Model for Coauthor Relationship in SNS](http://dx.doi.org/10.1155/2014/820715). *International Journal of Distributed Sensor Networks*, Vol. 2014, No. 820715, pp. 1-9. 
