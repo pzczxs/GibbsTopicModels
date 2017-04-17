@@ -1,6 +1,7 @@
 # GibbsTopicModels
 Gibbs sampling algorithms for several topic models, such as LDA, AT, and coAT. 
 
+## 1. Introduction
 ### 1.1. Description
 Topic model is family of generative probabilistic models for discovering the main themes from a collection of documents. Examples of topic models include Latent Dirichlet Allocation (LDA) [1][2][3], Author-Topic (AT) model [4][5][6], and co-Author-Topic (coAT) model [7], and many others. 
 
@@ -9,7 +10,7 @@ The inference for topic models usually cannot be done exactly. A variety of appr
 ### 1.2. News, Comments, and Bug Reports.
 We highly appreciate any suggestion, comment, and bug report.
 
-#### 1.3. License
+### 1.3. License
 Code (c) 2011 Jacob Eisenstein
 [Licensed under the Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
