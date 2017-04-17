@@ -19,7 +19,7 @@ Code (c) 2011 Jacob Eisenstein
 Please refer to the sample in `data/nips`.
 
 ### 2.2. How to Use
-*LDA: Please refer to `[LDA.java](src/cn/edu/bjut/ui/LDA.java)` in the package `cn/edu/bjut/ui`.
+*LDA: Please refer to [`LDA.java`](src/cn/edu/bjut/ui/LDA.java) in the package `cn/edu/bjut/ui`.
 
 *AT: Please refer to `AT.java` in the package  `cn/edu/bjut/ui`. 
 
