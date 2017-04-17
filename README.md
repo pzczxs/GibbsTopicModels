@@ -16,7 +16,7 @@ Code (c) 2011 Jacob Eisenstein
 
 ## 2. How to Use GibbsTopicModels
 ### 2.1. Data Format
-Please refer to the sample in `data/nips`.
+Please refer to the sample in [`data/nips`](data/nips).
 
 ### 2.2. How to Use
 *LDA: Please refer to [`LDA.java`](src/cn/edu/bjut/ui/LDA.java) in the package [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui).
