@@ -19,14 +19,14 @@ Code (c) 2011 Jacob Eisenstein
 Please refer to the sample in `data/nips`.
 
 ### 2.2. How to Use
-*LDA: Please refer to [`LDA.java`](src/cn/edu/bjut/ui/LDA.java) in the package `cn/edu/bjut/ui`.
+*LDA: Please refer to [`LDA.java`](src/cn/edu/bjut/ui/LDA.java) in the package [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui).
 
-*AT: Please refer to `AT.java` in the package  `cn/edu/bjut/ui`. 
+*AT: Please refer to [`AT.java`](src/cn/edu/bjut/ui/AT.java) in the package  [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui). 
 
-*coAT: Please refer to `coAT.java` in the package `cn/edu/bjut/ui`
+*coAT: Please refer to [`coAT.java`](src/cn/edu/bjut/ui/coAT.java) in the package [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui).
 
 ### 2.3. Additional Information
-This tool is written by XU, Shuo from Beijing University of Technology. If you find this tool useful, please cite GibbsTopicModels as follows
+This tool is written by XU, Shuo from Beijing University of Technology. If you find this toolbox useful, please cite GibbsTopicModels as follows: 
 
 Xin An, Shuo Xu, Yali Wen, and Mingxing Hu, 2014. [A Shared Interest Discovery Model for Coauthor Relationship in SNS](http://dx.doi.org/10.1155/2014/820715). International Journal of Distributed Sensor Networks, Vol. 2014, No. 820715, pp. 1-9. 
 
