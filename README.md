@@ -19,11 +19,11 @@ Code (c) 2011 Jacob Eisenstein
 Please refer to the sample in [`data/nips`](data/nips).
 
 ### 2.2. How to Use
-*LDA: Please refer to [`LDA.java`](src/cn/edu/bjut/ui/LDA.java) in the package [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui), and refer to [`LDA.conf`](conf/LDA.conf) for the parameter setting.
+*LDA: Please refer to [`LDA.java`](src/cn/edu/bjut/ui/LDA.java) in the package [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui), and refer to [`LDA.conf`](conf/LDA.properties) for the parameter setting.
 
-*AT: Please refer to [`AT.java`](src/cn/edu/bjut/ui/AT.java) in the package  [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui), and refer to [`AT.conf`](conf/AT.conf) for the parameter setting. 
+*AT: Please refer to [`AT.java`](src/cn/edu/bjut/ui/AT.java) in the package  [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui), and refer to [`AT.properties`](conf/AT.conf) for the parameter setting. 
 
-*coAT: Please refer to [`coAT.java`](src/cn/edu/bjut/ui/coAT.java) in the package [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui), and refer to [`coAT.conf`](conf/coAT.conf) for the parameter setting.
+*coAT: Please refer to [`coAT.java`](src/cn/edu/bjut/ui/coAT.java) in the package [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui), and refer to [`coAT.properties`](conf/coAT.conf) for the parameter setting.
 
 ### 2.3. Additional Information
 This toolbox is written by XU, Shuo from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this toolbox useful, please cite GibbsTopicModels as follows: 
