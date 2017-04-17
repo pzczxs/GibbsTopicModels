@@ -33,7 +33,7 @@ Xin An, Shuo Xu, Yali Wen, and Mingxing Hu, 2014. [A Shared Interest Discovery M
 For any question, please contact XU, Shuo xushuo@bjut.edu.cn OR pzczxs@gmail.com.
 
 ## 3. References
-[1](#Blei12) David M. Blei, 2012. [Introduction to Probabilistic Topic Models](http://dx.doi.org/10.1145/2133806.2133826). *Communications of the ACM*, Vol. 55, No. 4, pp. 77-84.
+[1] David M. Blei, 2012. [Introduction to Probabilistic Topic Models](http://dx.doi.org/10.1145/2133806.2133826). *Communications of the ACM*, Vol. 55, No. 4, pp. 77-84.
 
 [2] David M. Blei, Andrew Y. Ng, and Michael I. Jordan, 2003. [Latent Dirichlet Allocation](http://jmlr.csail.mit.edu/papers/v3/blei03a.html). *Journal of Machine Learning Research*, Vol. 3, No. Jan, pp. 993-1022.
 
