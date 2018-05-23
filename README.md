@@ -26,7 +26,7 @@ Please refer to the sample in [`data/nips`](data/nips).
 *coAT: Please refer to [`coAT.java`](src/cn/edu/bjut/ui/coAT.java) in the package [`cn/edu/bjut/ui`](src/cn/edu/bjut/ui), and refer to [`coAT.properties`](conf/coAT.properties) for the parameter setting.
 
 ### 2.3. Additional Information
-This toolbox is written by [XU, Shuo](http://xushuo.space/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this toolbox useful, please cite GibbsTopicModels as follows: 
+This toolbox is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this toolbox useful, please cite GibbsTopicModels as follows: 
 
 Xin An, Shuo Xu, Yali Wen, and Mingxing Hu, 2014. [A Shared Interest Discovery Model for Coauthor Relationship in SNS](http://dx.doi.org/10.1155/2014/820715). International Journal of Distributed Sensor Networks, Vol. 2014, No. 820715, pp. 1-9. 
 
